@@ -1,10 +1,12 @@
 {
-  "name": "node-rdpjs",
+  "name": "@socketsupply/node-rdpjs",
   "author": "Sylvain Peyrefitte",
   "version": "0.4.0",
-  "engines": { "node" : ">=4.0.0" },
   "description": "Remote Desktop Protocol in Node.js",
   "license": "AGPL v3.0",
+  "contributors": [
+    "Joseph Werle <Joseph@socketsupply.co>"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/citronneur/node-rdpjs"
