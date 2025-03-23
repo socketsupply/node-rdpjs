@@ -12,7 +12,5 @@
     "url": "https://github.com/citronneur/node-rdpjs"
   },
   "main": "lib/index.js",
-  "dependencies": {
-    "lodash": "3.3.0"
-  }
+  "dependencies": {}
 }
