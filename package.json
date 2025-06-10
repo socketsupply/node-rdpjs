@@ -1,7 +1,7 @@
 {
   "name": "@socketsupply/node-rdpjs",
   "author": "Sylvain Peyrefitte",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "Remote Desktop Protocol in Node.js",
   "license": "AGPL v3.0",
   "contributors": [
